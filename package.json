@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "nodemon src/index.js"
     },
-    "author": "Matias Nicolas Mancilla <mati.nmancilla@gmail.com>",
+    "author": "Matias Nicolas Mancilla",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
